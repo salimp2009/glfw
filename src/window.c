@@ -153,7 +153,7 @@ GLFWAPI GLFWwindow* glfwCreateWindow(int width, int height,
                                      const char* title,
                                      GLFWmonitor* monitor,
                                      GLFWwindow* share)
-{
+ {
     _GLFWfbconfig fbconfig;
     _GLFWctxconfig ctxconfig;
     _GLFWwndconfig wndconfig;
