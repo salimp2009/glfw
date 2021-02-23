@@ -101,7 +101,7 @@ located in the `deps/` directory.
    functions
  - [linmath.h](https://github.com/datenwolf/linmath.h) for linear algebra in
    examples
- - [Nuklear](https://github.com/vurtun/nuklear) for test and example UI
+ - [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) for test and example UI
  - [stb\_image\_write](https://github.com/nothings/stb) for writing images to disk
 
 The documentation is generated with [Doxygen](http://doxygen.org/) if CMake can
@@ -118,7 +118,7 @@ information on what to include when reporting a bug.
 
 ## Changelog
 
- - [X11] Bugfix: IME input of CJK was broken for "C" locale (#1587,#1636)
+There is nothing here yet.
 
 
 ## Contact
@@ -144,13 +144,16 @@ GLFW exists because people around the world donated their time and lent their
 skills.
 
  - Bobyshev Alexander
+ - Laurent Aphecetche
  - Matt Arsenault
+ - ashishgamedev
  - David Avedissian
  - Keith Bauer
  - John Bartholomew
  - Coşku Baş
  - Niklas Behrens
  - Andrew Belt
+ - Nevyn Bengtsson
  - Niklas Bergström
  - Denis Bernard
  - Doug Binks
@@ -159,6 +162,7 @@ skills.
  - Rok Breulj
  - Kai Burjack
  - Martin Capitanio
+ - Nicolas Caramelli
  - David Carlier
  - Arturo Castro
  - Chi-kwan Chan
@@ -197,6 +201,7 @@ skills.
  - Eloi Marín Gratacós
  - Stefan Gustavson
  - Jonathan Hale
+ - hdf89shfdfs
  - Sylvain Hellegouarch
  - Matthew Henry
  - heromyth
@@ -221,11 +226,13 @@ skills.
  - Konstantin Käfer
  - Eric Larson
  - Francis Lecavalier
+ - Jong Won Lee
  - Robin Leffmann
  - Glenn Lewis
  - Shane Liesegang
  - Anders Lindqvist
  - Leon Linhart
+ - Marco Lizza
  - Eyal Lotem
  - Aaron Loucks
  - Luflosi
@@ -257,6 +264,7 @@ skills.
  - ndogxj
  - Kristian Nielsen
  - Kamil Nowakowski
+ - onox
  - Denis Ovod
  - Ozzy
  - Andri Pálsson
@@ -264,6 +272,7 @@ skills.
  - Braden Pellett
  - Christopher Pelloux
  - Arturo J. Pérez
+ - Vladimir Perminov
  - Anthony Pesch
  - Orson Peters
  - Emmanuel Gil Peyrot
@@ -281,8 +290,10 @@ skills.
  - Eddie Ringle
  - Max Risuhin
  - Jorge Rodriguez
+ - Luca Rood
  - Ed Ropple
  - Aleksey Rybalkin
+ - Mikko Rytkönen
  - Riku Salminen
  - Brandon Schaefer
  - Sebastian Schuberth
@@ -290,6 +301,7 @@ skills.
  - Matt Sealey
  - Steve Sexton
  - Arkady Shapkin
+ - Ali Sherief
  - Yoshiki Shibukawa
  - Dmitri Shuralyov
  - Daniel Skorupski
@@ -322,14 +334,19 @@ skills.
  - Torsten Walluhn
  - Patrick Walton
  - Xo Wang
+ - Waris
  - Jay Weisskopf
  - Frank Wille
+ - Richard A. Wilkes
+ - Tatsuya Yatagawa
  - Ryogo Yoshimura
  - Lukas Zanner
  - Andrey Zholos
+ - Aihui Zhu
  - Santi Zupancic
  - Jonas Ådahl
  - Lasse Öörni
+ - Leonard König
  - All the unmentioned and anonymous contributors in the GLFW community, for bug
    reports, patches, feedback, testing and encouragement
 
